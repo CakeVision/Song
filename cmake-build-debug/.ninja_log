@@ -1,0 +1,7 @@
+# ninja log v6
+1	148	1726001410869829384	CMakeFiles/audiostat.dir/main.cpp.o.ddi	6f6ed9bba75b0ed9
+149	159	1726001411017829036	CMakeFiles/audiostat.dir/CXX.dd	120f05d099688434
+149	159	1726001411017829036	/home/cake/CLionProjects/audiostat/cmake-build-debug/CMakeFiles/audiostat.dir/CXXModules.json	120f05d099688434
+149	159	1726001411017829036	CMakeFiles/audiostat.dir/main.cpp.o.modmap	120f05d099688434
+159	949	1726001411027829012	CMakeFiles/audiostat.dir/main.cpp.o	9b03e54ca8ff9950
+951	1087	1726001411819827088	audiostat	36f6bd5b031ab446

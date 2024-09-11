@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/cake/CLionProjects/audiostat/cmake-build-debug",
+	"dir-cur-src" : "/home/cake/CLionProjects/audiostat",
+	"dir-top-bld" : "/home/cake/CLionProjects/audiostat/cmake-build-debug",
+	"dir-top-src" : "/home/cake/CLionProjects/audiostat",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/cake/CLionProjects/audiostat/cmake-build-debug/CMakeFiles/audiostat.dir"
+}

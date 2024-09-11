@@ -1,0 +1,3 @@
+/home/cake/CLionProjects/audiostat/cmake-build-debug/CMakeFiles/audiostat.dir
+/home/cake/CLionProjects/audiostat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cake/CLionProjects/audiostat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,112 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0/include",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/include",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0/include-fixed",
+						"/nix/store/0c5jp9d9h9818arr6s21xibgjl1ybql0-glibc-2.39-52-dev/include"
+					],
+					"linkDirectories" : 
+					[
+						"/nix/store/dbcw19dshdwnxdv5q2g6wldj6syyvq7l-glibc-2.39-52/lib",
+						"/nix/store/wlqcy3i5wr2n5dyq5fvv086hlf7zxz56-gcc-14.1.0-lib/lib",
+						"/nix/store/9rc6izsrif47s7q95g5g4v13wsxlwk2p-gcc-wrapper-14.1.0/bin",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib64",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"gcc_s",
+						"c",
+						"gcc",
+						"gcc_s"
+					]
+				},
+				"path" : "/home/cake/.nix-profile/bin/cc",
+				"version" : "14.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/include/c++/14.1.0",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/include/c++/14.1.0/x86_64-unknown-linux-gnu",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/include/c++/14.1.0/backward",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0/include",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/include",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0/include-fixed",
+						"/nix/store/0c5jp9d9h9818arr6s21xibgjl1ybql0-glibc-2.39-52-dev/include"
+					],
+					"linkDirectories" : 
+					[
+						"/nix/store/dbcw19dshdwnxdv5q2g6wldj6syyvq7l-glibc-2.39-52/lib",
+						"/nix/store/wlqcy3i5wr2n5dyq5fvv086hlf7zxz56-gcc-14.1.0-lib/lib",
+						"/nix/store/9rc6izsrif47s7q95g5g4v13wsxlwk2p-gcc-wrapper-14.1.0/bin",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib/gcc/x86_64-unknown-linux-gnu/14.1.0",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib64",
+						"/nix/store/00mf464k7wz0xpp6phj9iv2fr1d75g3s-gcc-14.1.0/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"m",
+						"gcc_s",
+						"gcc",
+						"c",
+						"gcc_s",
+						"gcc"
+					]
+				},
+				"path" : "/home/cake/.nix-profile/bin/c++",
+				"version" : "14.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
